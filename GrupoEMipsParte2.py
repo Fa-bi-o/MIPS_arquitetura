@@ -7,7 +7,8 @@ caminho_entrada_json = 'input/'
 arquivos_entrada = [pos_json[0:-11] for pos_json in os.listdir(caminho_entrada_json) if pos_json.endswith('.json')]
 
 """
-    Código segunda entrega, revisado. Espero que esteja correto!!
+    Código segunda entrega, revisado. Foi enviado em formato zip no AVA o arquivo.py e a pasta input,
+    é necessária estar criada na mesma pasta do arquivo para funcionar corretamenteEspero que esteja correto!!
 """
 
 # Dicionários para os formatos R I J
